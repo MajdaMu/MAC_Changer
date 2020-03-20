@@ -1,10 +1,13 @@
 # MAC_Changer:
-This repository includes a few versions of python program named "mac_changer"
 
-# The versions:
-Each version includes functional python code that can be used upon installation.
-Please read the README.md files attached with each version. Those files include information about the specific code and version, as well as the version of python that is compatible with the code.
+This program/s is created to make the manual process of changing a MAC address more efficient for most users who are not
+familiar with changing their MAC addresses via the command line. The step by step available currently is made specifically 
+for Debian based Linux distributions. 
 
-# How to use the programs:
-The programs are available for cloning and download for everyone under the GNU License. You can find the information pertaining to the GNU License inside the LICENSE file.
+# Versions:
+
+There maybe multiple versions posted for the same program. When that happens the README file associated with the versions
+will include information about the changes made to the original program. Typically, a new version will be created only when 
+a security flaw is discovered in the code or a way to reduce repeated code but maintain the same functionality was discovered. 
+Either way, the reason for the release of the new version will be included in the README file.
 
