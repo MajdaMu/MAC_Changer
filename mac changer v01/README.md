@@ -8,7 +8,7 @@ the values of the variables *"interface"* and *"new_mac"* inside the *.py* file 
 
 1- Please download, clone, or copy the program into the Linux distribution you are using. <br/>
 *To Download or Clone the MAC_Changer repository:* <br/>  
-![](mac%20changer%20v01/images/download.png)
+![](https://github.com/MajdaMu/MAC_Changer/blob/master/mac%20changer%20v01/images/download.png)
  
 2- Use the command line to navigate to the place where *mac_changer_v01.py* is installed. 
  
@@ -20,7 +20,7 @@ sudo ifconfig
 ```
 The MAC address value is next to the *ether* word which is highlighted with a red border in the image below.
  
-![](mac%20changer%20v01/images/check-current-mac.png)<br/>
+![](https://github.com/MajdaMu/MAC_Changer/blob/master/mac%20changer%20v01/images/check-current-mac.png)<br/>
 
 4- Next open the *mac_changer_v01.py* using your favorite text editor or IDE. Or you can use nano which is installed 
 already with most
