@@ -1,1 +1,1 @@
-This folder contains the images of associated and used in each MAC_Changer version folder.
+This folder contains the images associated and used in mac changer v01 folder.
